@@ -1,0 +1,17 @@
+server:
+  port: 8764
+spring:
+  application:
+    name: eureka-feign
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
+#第一次访问超时
+hystrix.command.default.execution.timeout.enabled: false

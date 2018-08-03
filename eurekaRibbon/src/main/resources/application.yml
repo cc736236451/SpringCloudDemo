@@ -1,0 +1,12 @@
+server:
+  port: 8763
+spring:
+  application:
+    name: eureka-riboon
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka
+  instance:
+    hostname: localhost
+    prefer-ip-address: true

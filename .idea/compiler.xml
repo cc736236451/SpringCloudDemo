@@ -12,6 +12,7 @@
         <module name="eurekaservicedemo" />
         <module name="eurekazuul" />
         <module name="ribbondemo" />
+        <module name="springcloudconfigdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="eurekaservicedemo" target="1.8" />
       <module name="eurekazuul" target="1.8" />
       <module name="ribbondemo" target="1.8" />
+      <module name="springcloudconfigdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

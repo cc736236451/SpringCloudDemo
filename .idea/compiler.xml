@@ -12,6 +12,7 @@
         <module name="eurekaservicedemo" />
         <module name="eurekazuul" />
         <module name="ribbondemo" />
+        <module name="springcloudconfigclient" />
         <module name="springcloudconfigdemo" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="eurekaservicedemo" target="1.8" />
       <module name="eurekazuul" target="1.8" />
       <module name="ribbondemo" target="1.8" />
+      <module name="springcloudconfigclient" target="1.8" />
       <module name="springcloudconfigdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/eurekapeer/pom.xml" />
         <option value="$PROJECT_DIR$/eurekazuul/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfigclient/pom.xml" />
       </list>
     </option>
   </component>

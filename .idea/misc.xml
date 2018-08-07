@@ -11,8 +11,12 @@
         <option value="$PROJECT_DIR$/eurekazuul/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigdemo/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclient/pom.xml" />
-        <option value="$PROJECT_DIR$/feginserviceconfig/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eurekaFeign/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

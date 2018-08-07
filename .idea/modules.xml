@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eurekapeer/eurekapeer.iml" filepath="$PROJECT_DIR$/eurekapeer/eurekapeer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaServiceDemo/eurekaservicedemo.iml" filepath="$PROJECT_DIR$/eurekaServiceDemo/eurekaservicedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekazuul/eurekazuul.iml" filepath="$PROJECT_DIR$/eurekazuul/eurekazuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feginserviceconfig/feginserviceconfig.iml" filepath="$PROJECT_DIR$/feginserviceconfig/feginserviceconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaRibbon/ribbondemo.iml" filepath="$PROJECT_DIR$/eurekaRibbon/ribbondemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" filepath="$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigdemo/springcloudconfigdemo.iml" filepath="$PROJECT_DIR$/springcloudconfigdemo/springcloudconfigdemo.iml" />

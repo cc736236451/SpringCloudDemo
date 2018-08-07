@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/eurekazuul/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigdemo/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclient/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserviceconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/feginclientconfig/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

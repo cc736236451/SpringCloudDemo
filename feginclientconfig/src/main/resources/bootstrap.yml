@@ -6,6 +6,3 @@ spring:
       label: master
   application:
     name: foobar
-    
-    
-    

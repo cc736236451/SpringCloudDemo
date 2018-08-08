@@ -1,2 +1,14 @@
 server:
   port: 8089
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka
+  instance:
+    hostname: localhost
+    prefer-ip-address: true

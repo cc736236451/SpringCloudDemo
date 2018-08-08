@@ -12,6 +12,7 @@
         <module name="eurekaservicedemo" />
         <module name="eurekazuul" />
         <module name="feginclientconfig" />
+        <module name="feignclientconfigbus" />
         <module name="feignserviceconfig" />
         <module name="ribbondemo" />
         <module name="springcloudconfigclient" />
@@ -26,6 +27,7 @@
       <module name="eurekazuul" target="1.8" />
       <module name="feginclientconfig" target="1.8" />
       <module name="feginserviceconfig" target="1.8" />
+      <module name="feignclientconfigbus" target="1.8" />
       <module name="feignconfigservice" target="1.8" />
       <module name="feignserviceconfig" target="1.8" />
       <module name="ribbondemo" target="1.8" />
